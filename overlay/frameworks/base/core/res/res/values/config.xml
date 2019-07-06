@@ -582,4 +582,7 @@
     <!-- Whether we have a multi coloured battery LED or not -->
     <bool name="config_multiColorBatteryLed">false</bool>
 
+    <!-- Lawnstep -->
+    <string name="config_recentsComponentName" translatable="false">ch.deletescape.lawnchair.ci/com.android.quickstep.RecentsActivity</string>
+
 </resources>
